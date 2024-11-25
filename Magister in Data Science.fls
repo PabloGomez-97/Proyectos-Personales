@@ -2,8 +2,8 @@ PWD /Users/pablo/Documents/GitHub/Proyectos-Personales
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/pablo/Documents/GitHub/Proyectos-Personales/Informe.tex
-OUTPUT Informe.log
+INPUT /Users/pablo/Documents/GitHub/Proyectos-Personales/Magister in Data Science.tex
+OUTPUT Magister in Data Science.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo
@@ -205,10 +205,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/draftwatermark/draftwatermark
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./Informe.aux
-INPUT ./Informe.aux
-INPUT Informe.aux
-OUTPUT Informe.aux
+INPUT ./Magister in Data Science.aux
+INPUT ./Magister in Data Science.aux
+INPUT Magister in Data Science.aux
+OUTPUT Magister in Data Science.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -218,108 +218,26 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
-INPUT ./Informe.out
-INPUT ./Informe.out
-INPUT Informe.out
-INPUT Informe.out
-OUTPUT Informe.pdf
-INPUT ./Informe.out
-INPUT ./Informe.out
-OUTPUT Informe.out
+INPUT ./Magister in Data Science.out
+INPUT ./Magister in Data Science.out
+INPUT Magister in Data Science.out
+INPUT Magister in Data Science.out
+INPUT ./Magister in Data Science.out
+INPUT ./Magister in Data Science.out
+OUTPUT Magister in Data Science.out
+OUTPUT Magister in Data Science.pdf
+INPUT ./logo2.jpeg
+INPUT ./logo2.jpeg
+INPUT ./logo2.jpeg
+INPUT ./logo2.jpeg
+INPUT ./logo2.jpeg
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
-INPUT ./ANALITIKS.png
-INPUT ./ANALITIKS.png
-INPUT ./ANALITIKS.png
-INPUT ./ANALITIKS.png
-INPUT ./ANALITIKS.png
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ./Informe.toc
-INPUT ./Informe.toc
-INPUT Informe.toc
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-OUTPUT Informe.toc
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./imagen33.jpeg
-INPUT ./imagen33.jpeg
-INPUT ./imagen33.jpeg
-INPUT ./imagen33.jpeg
-INPUT ./imagen33.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT ./logo2.jpeg
-INPUT Informe.aux
-INPUT ./Informe.out
-INPUT ./Informe.out
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT Magister in Data Science.aux
+INPUT ./Magister in Data Science.out
+INPUT ./Magister in Data Science.out
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
