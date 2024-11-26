@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.10)  25 NOV 2024 12:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.10)  26 NOV 2024 00:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -553,15 +553,10 @@ Package hyperref Info: Link coloring ON on input line 40.
 \@outlinefile=\write4
 \openout4 = `Ingeniería-Social.out'.
 
-<ANALITIKS.png, id=59, 482.80376pt x 171.64125pt>
-File: ANALITIKS.png Graphic file (type png)
-<use ANALITIKS.png>
-Package pdftex.def Info: ANALITIKS.png  used on input line 49.
-(pdftex.def)             Requested size: 227.62204pt x 80.9202pt.
-<logo2.jpeg, id=61, 963.6pt x 295.85532pt>
+<logo2.jpeg, id=59, 963.6pt x 295.85532pt>
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 57.
+Package pdftex.def Info: logo2.jpeg  used on input line 56.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 
@@ -573,11 +568,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <153.57375> not available
-(Font)              size <24.88> substituted on input line 57.
+(Font)              size <24.88> substituted on input line 56.
 
 [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./logo2.jpeg> <./ANALITIKS.png>] (./Ingeniería-Social.toc
+ <./logo2.jpeg>] (./Ingeniería-Social.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
@@ -586,7 +581,7 @@ LaTeX Info: Redefining \% on input line 1.
 
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 66.
+Package pdftex.def Info: logo2.jpeg  used on input line 62.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 
@@ -597,18 +592,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
 
  []
 
-<ingsocial.png, id=91, 526.96875pt x 399.4925pt>
+<ingsocial.png, id=88, 526.96875pt x 399.4925pt>
 File: ingsocial.png Graphic file (type png)
 <use ingsocial.png>
-Package pdftex.def Info: ingsocial.png  used on input line 76.
+Package pdftex.def Info: ingsocial.png  used on input line 72.
 (pdftex.def)             Requested size: 426.79134pt x 323.56276pt.
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 79.
+Package pdftex.def Info: logo2.jpeg  used on input line 75.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -618,14 +613,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
 [3 <./ingsocial.png>]
-<set.png, id=97, 552.0625pt x 483.8075pt>
+<set.png, id=95, 552.0625pt x 483.8075pt>
 File: set.png Graphic file (type png)
 <use set.png>
-Package pdftex.def Info: set.png  used on input line 96.
+Package pdftex.def Info: set.png  used on input line 92.
 (pdftex.def)             Requested size: 341.43306pt x 299.23409pt.
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 99.
+Package pdftex.def Info: logo2.jpeg  used on input line 95.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 
@@ -636,19 +631,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
 [4 <./set.png>]
-<sav.png, id=104, 1027.84pt x 432.61626pt>
+<sav.png, id=102, 1027.84pt x 432.61626pt>
 File: sav.png Graphic file (type png)
 <use sav.png>
-Package pdftex.def Info: sav.png  used on input line 105.
+Package pdftex.def Info: sav.png  used on input line 101.
 (pdftex.def)             Requested size: 341.43306pt x 143.70776pt.
-<pt.png, id=105, 935.495pt x 452.69125pt>
+<pt.png, id=103, 935.495pt x 452.69125pt>
 File: pt.png Graphic file (type png)
 <use pt.png>
-Package pdftex.def Info: pt.png  used on input line 114.
+Package pdftex.def Info: pt.png  used on input line 110.
 (pdftex.def)             Requested size: 341.43306pt x 165.22057pt.
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 120.
+Package pdftex.def Info: logo2.jpeg  used on input line 116.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 
@@ -659,14 +654,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
 [5 <./sav.png> <./pt.png>]
-<tpm.png, id=112, 961.5925pt x 428.60126pt>
+<tpm.png, id=110, 961.5925pt x 428.60126pt>
 File: tpm.png Graphic file (type png)
 <use tpm.png>
-Package pdftex.def Info: tpm.png  used on input line 125.
+Package pdftex.def Info: tpm.png  used on input line 121.
 (pdftex.def)             Requested size: 341.43306pt x 152.18393pt.
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 146.
+Package pdftex.def Info: logo2.jpeg  used on input line 142.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 
@@ -679,7 +674,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [6 <./tpm.png>]
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 157.
+Package pdftex.def Info: logo2.jpeg  used on input line 153.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 
@@ -706,18 +701,18 @@ Package rerunfilecheck Info: File `Ingeniería-Social.out' has not changed.
 (rerunfilecheck)             Checksum: 2929DD00CAB469E360F4DBC199CD7230;2290.
  ) 
 Here is how much of TeX's memory you used:
- 21661 strings out of 474116
- 403251 string characters out of 5743681
+ 21654 strings out of 474116
+ 403112 string characters out of 5743681
  1933187 words of memory out of 5000000
- 43675 multiletter control sequences out of 15000+600000
+ 43668 multiletter control sequences out of 15000+600000
  564707 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,15n,87p,788b,541s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,15n,87p,788b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Ingeniería-Social.pdf (7 pages, 1620772 bytes).
+Output written on Ingeniería-Social.pdf (7 pages, 1582768 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
+ 156 PDF objects out of 1000 (max. 8388607)
  122 compressed objects within 2 object streams
  22 named destinations out of 1000 (max. 500000)
- 152 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 147 words of extra memory for PDF output out of 10000 (max. 10000000)
 
