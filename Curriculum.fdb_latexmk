@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1732661371.84985 "/Users/pablo/Documents/GitHub/Proyectos-Personales/Curriculum.tex" "Curriculum.pdf" "Curriculum" 1732661372.50258 0
-  "/Users/pablo/Documents/GitHub/Proyectos-Personales/Curriculum.tex" 1732661371.6492 3586 ef07bb9ca4afdfc01bf157fe1a143ce6 ""
+["pdflatex"] 1732665537.38671 "/Users/pablo/Documents/GitHub/Proyectos-Personales/Curriculum.tex" "Curriculum.pdf" "Curriculum" 1732665538.03898 0
+  "/Users/pablo/Documents/GitHub/Proyectos-Personales/Curriculum.tex" 1732665537.18679 3571 6b97a3e2860e575779cfd0092e70f68e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -54,9 +54,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1731207760.61829 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1731207692 8221444 1a0d6d3a1e3022f1c4f8e8fe97338bf4 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Curriculum.aux" 1732661372.44399 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "Curriculum.out" 1732661372.29405 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Curriculum.tex" 1732661371.6492 3586 ef07bb9ca4afdfc01bf157fe1a143ce6 ""
+  "Curriculum.aux" 1732665537.97658 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "Curriculum.out" 1732665537.82674 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Curriculum.tex" 1732665537.18679 3571 6b97a3e2860e575779cfd0092e70f68e ""
   (generated)
   "Curriculum.aux"
   "Curriculum.log"
