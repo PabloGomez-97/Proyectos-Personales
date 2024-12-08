@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.10)  27 NOV 2024 17:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.8)  8 DEC 2024 11:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/pablo/Documents/GitHub/Proyectos-Personales/Curriculum.tex
-(/Users/pablo/Documents/GitHub/Proyectos-Personales/Curriculum.tex
+**/Users/pablogomez/Documents/GitHub/Proyectos-Personales/Curriculum
+(/Users/pablogomez/Documents/GitHub/Proyectos-Personales/Curriculum.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -236,7 +236,7 @@ Package hyperref Info: Link coloring OFF on input line 9.
 \openout3 = `Curriculum.out'.
 
 
-Overfull \hbox (11.505pt too wide) in paragraph at lines 24--25
+Overfull \hbox (11.505pt too wide) in paragraph at lines 23--24
 []\OT1/cmr/m/n/10 Entrego con-tenido a difer-entes sec-ciones de Re-des de Com-puta-dores y Bases de Datos con metodolog^^S^^Pas
  []
 
@@ -252,14 +252,14 @@ Package rerunfilecheck Info: File `Curriculum.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  8593 strings out of 474116
- 134214 string characters out of 5743681
+ 134229 string characters out of 5743682
  1942187 words of memory out of 5000000
  30902 multiletter control sequences out of 15000+600000
  560269 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,470b,432s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,471b,432s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Curriculum.pdf (1 page, 80578 bytes).
+Output written on Curriculum.pdf (1 page, 80588 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
