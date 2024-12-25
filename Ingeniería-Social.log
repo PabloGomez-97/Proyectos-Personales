@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.10)  26 NOV 2024 00:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.24)  24 DEC 2024 21:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/pablo/Documents/GitHub/Proyectos-Personales/Ingeniería-Social.tex
-(/Users/pablo/Documents/GitHub/Proyectos-Personales/Ingeniería-Social.tex
+**/Users/pablogomez/Documents/GitHub/Proyectos-Personales/Ingeniería-Social.tex
+(/Users/pablogomez/Documents/GitHub/Proyectos-Personales/Ingeniería-Social.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -702,14 +702,14 @@ Package rerunfilecheck Info: File `Ingeniería-Social.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  21654 strings out of 474116
- 403112 string characters out of 5743681
+ 403127 string characters out of 5743681
  1933187 words of memory out of 5000000
  43668 multiletter control sequences out of 15000+600000
  564707 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,15n,87p,788b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,15n,87p,793b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Ingeniería-Social.pdf (7 pages, 1582768 bytes).
+Output written on Ingeniería-Social.pdf (7 pages, 1582420 bytes).
 PDF statistics:
  156 PDF objects out of 1000 (max. 8388607)
  122 compressed objects within 2 object streams
