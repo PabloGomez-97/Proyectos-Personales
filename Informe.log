@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.10)  23 NOV 2024 20:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.24)  28 DEC 2024 00:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/pablo/Documents/GitHub/Proyectos-Personales/Informe.tex
-(/Users/pablo/Documents/GitHub/Proyectos-Personales/Informe.tex
+**/Users/pablogomez/Documents/GitHub/Proyectos-Personales/Informe.tex
+(/Users/pablogomez/Documents/GitHub/Proyectos-Personales/Informe.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -464,6 +464,8 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box69
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
 Package: draftwatermark 2024/03/04 3.3 Put a gray textual watermark on document pages
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count309
@@ -474,26 +476,26 @@ LaTeX Info: Redefining \% on input line 12.
 )
 \openout1 = `Informe.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -548,20 +550,15 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 40.
+Package hyperref Info: Link coloring ON on input line 41.
  (./Informe.out) (./Informe.out)
 \@outlinefile=\write4
 \openout4 = `Informe.out'.
 
-<ANALITIKS.png, id=159, 482.80376pt x 171.64125pt>
-File: ANALITIKS.png Graphic file (type png)
-<use ANALITIKS.png>
-Package pdftex.def Info: ANALITIKS.png  used on input line 49.
-(pdftex.def)             Requested size: 227.62204pt x 80.9202pt.
-<logo2.jpeg, id=161, 963.6pt x 295.85532pt>
+<logo2.jpeg, id=27, 963.6pt x 295.85532pt>
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 57.
+Package pdftex.def Info: logo2.jpeg  used on input line 58.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 
@@ -573,16 +570,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <153.57375> not available
-(Font)              size <24.88> substituted on input line 57.
+(Font)              size <24.88> substituted on input line 58.
 
 [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./logo2.jpeg> <./ANALITIKS.png>] (./Informe.toc
+ <./logo2.jpeg>] (./Informe.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write5
+\openout5 = `Informe.toc'.
+
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 39.
+Package pdftex.def Info: logo2.jpeg  used on input line 62.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 
@@ -592,15 +593,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
-[2])
-\tf@toc=\write5
-\openout5 = `Informe.toc'.
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
 
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 66.
+Package pdftex.def Info: logo2.jpeg  used on input line 96.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 26.1861pt, for example:
@@ -609,11 +615,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
 [3]
+Underfull \hbox (badness 10000) in paragraph at lines 98--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 80.
+Package pdftex.def Info: logo2.jpeg  used on input line 108.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 26.1861pt, for example:
@@ -622,84 +636,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
 [4]
-File: logo2.jpeg Graphic file (type jpg)
-<use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 98.
-(pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
+<imagendocker.png, id=56, 692.5875pt x 453.695pt>
+File: imagendocker.png Graphic file (type png)
+<use imagendocker.png>
+Package pdftex.def Info: imagendocker.png  used on input line 110.
+(pdftex.def)             Requested size: 398.33858pt x 260.94875pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 26.1861pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.1861pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
 
-[5]
-File: logo2.jpeg Graphic file (type jpg)
-<use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 119.
-(pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 26.1861pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.1861pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
-
-[6]
-File: logo2.jpeg Graphic file (type jpg)
-<use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 133.
-(pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 26.1861pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.1861pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
-
-[7]
-File: logo2.jpeg Graphic file (type jpg)
-<use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 156.
-(pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 26.1861pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.1861pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
-
-[8]
-File: logo2.jpeg Graphic file (type jpg)
-<use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 178.
-(pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 26.1861pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.1861pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
-
-[9]
-<imagen33.jpeg, id=249, 1606.0pt x 961.5925pt>
-File: imagen33.jpeg Graphic file (type jpg)
-<use imagen33.jpeg>
-Package pdftex.def Info: imagen33.jpeg  used on input line 188.
-(pdftex.def)             Requested size: 540.60236pt x 323.69446pt.
-
-Overfull \hbox (40.11836pt too wide) in paragraph at lines 188--189
- [] 
  []
 
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 192.
+Package pdftex.def Info: logo2.jpeg  used on input line 120.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -708,46 +662,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
-[10 <./imagen33.jpeg>]
-File: logo2.jpeg Graphic file (type jpg)
-<use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 216.
-(pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 26.1861pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.1861pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
-
-[11]
-File: logo2.jpeg Graphic file (type jpg)
-<use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 220.
-(pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 26.1861pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.1861pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
-
-[12]
-File: logo2.jpeg Graphic file (type jpg)
-<use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 233.
-(pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 26.1861pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.1861pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
-
-[13] (./Informe.aux
+[5 <./imagendocker.png>] (./Informe.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
@@ -761,21 +676,21 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 128.69374pt have occurred.
 
 Package rerunfilecheck Info: File `Informe.out' has not changed.
-(rerunfilecheck)             Checksum: 7B2F32DD2599926B7E31F87CED7C5DAA;8701.
+(rerunfilecheck)             Checksum: 45E7CBC2B9B3D43859EEF8A9C85D970B;755.
  ) 
 Here is how much of TeX's memory you used:
- 21696 strings out of 474116
- 403593 string characters out of 5743681
- 1944187 words of memory out of 5000000
- 43675 multiletter control sequences out of 15000+600000
+ 21651 strings out of 474116
+ 403156 string characters out of 5743681
+ 1935187 words of memory out of 5000000
+ 43672 multiletter control sequences out of 15000+600000
  564538 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,15n,87p,925b,777s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,15n,87p,773b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Informe.pdf (13 pages, 326777 bytes).
+Output written on Informe.pdf (5 pages, 583954 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
- 279 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
- 332 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
