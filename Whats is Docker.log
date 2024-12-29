@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.24)  28 DEC 2024 00:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.24)  28 DEC 2024 22:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/pablogomez/Documents/GitHub/Proyectos-Personales/Informe.tex
-(/Users/pablogomez/Documents/GitHub/Proyectos-Personales/Informe.tex
+**"/Users/pablogomez/Documents/GitHub/Proyectos-Personales/Whats is Docker.tex"
+(/Users/pablogomez/Documents/GitHub/Proyectos-Personales/Whats is Docker.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -470,11 +470,11 @@ Package: setspace 2022/12/04 v6.7b set line spacing
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count309
 \l__pdf_internal_box=\box70
-) (./Informe.aux
+) (./Whats is Docker.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
-\openout1 = `Informe.aux'.
+\openout1 = `"Whats is Docker.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
@@ -551,11 +551,11 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring ON on input line 41.
- (./Informe.out) (./Informe.out)
+ (./Whats is Docker.out) (./Whats is Docker.out)
 \@outlinefile=\write4
-\openout4 = `Informe.out'.
+\openout4 = `"Whats is Docker.out"'.
 
-<logo2.jpeg, id=27, 963.6pt x 295.85532pt>
+<logo2.jpeg, id=35, 963.6pt x 295.85532pt>
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
 Package pdftex.def Info: logo2.jpeg  used on input line 58.
@@ -574,12 +574,12 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <153.57375> not available
 
 [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./logo2.jpeg>] (./Informe.toc
+ <./logo2.jpeg>] (./Whats is Docker.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@toc=\write5
-\openout5 = `Informe.toc'.
+\openout5 = `"Whats is Docker.toc"'.
 
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
@@ -594,18 +594,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
 
  []
 
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 96.
+Package pdftex.def Info: logo2.jpeg  used on input line 98.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -615,18 +615,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 98--104
+Underfull \hbox (badness 10000) in paragraph at lines 100--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--107
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
 
  []
 
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 108.
+Package pdftex.def Info: logo2.jpeg  used on input line 110.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -636,24 +636,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
 [4]
-<imagendocker.png, id=56, 692.5875pt x 453.695pt>
+<imagendocker.png, id=66, 692.5875pt x 453.695pt>
 File: imagendocker.png Graphic file (type png)
 <use imagendocker.png>
-Package pdftex.def Info: imagendocker.png  used on input line 110.
+Package pdftex.def Info: imagendocker.png  used on input line 112.
 (pdftex.def)             Requested size: 398.33858pt x 260.94875pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--117
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
 
  []
 
 File: logo2.jpeg Graphic file (type jpg)
 <use logo2.jpeg>
-Package pdftex.def Info: logo2.jpeg  used on input line 120.
+Package pdftex.def Info: logo2.jpeg  used on input line 123.
 (pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -662,7 +662,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
 
-[5 <./imagendocker.png>] (./Informe.aux
+[5 <./imagendocker.png>]
+File: logo2.jpeg Graphic file (type jpg)
+<use logo2.jpeg>
+Package pdftex.def Info: logo2.jpeg  used on input line 150.
+(pdftex.def)             Requested size: 71.13188pt x 21.83606pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 26.1861pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.1861pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-14.1861pt}.
+
+[6] (./Whats is Docker.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
@@ -675,22 +688,22 @@ L3 programming layer <2024-02-20>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 128.69374pt have occurred.
 
-Package rerunfilecheck Info: File `Informe.out' has not changed.
-(rerunfilecheck)             Checksum: 45E7CBC2B9B3D43859EEF8A9C85D970B;755.
+Package rerunfilecheck Info: File `"Whats is Docker".out' has not changed.
+(rerunfilecheck)             Checksum: EBE189042A2BE0A67250A6817D1FEC09;1206.
  ) 
 Here is how much of TeX's memory you used:
- 21651 strings out of 474116
- 403156 string characters out of 5743681
+ 21660 strings out of 474116
+ 403523 string characters out of 5743681
  1935187 words of memory out of 5000000
- 43672 multiletter control sequences out of 15000+600000
+ 43678 multiletter control sequences out of 15000+600000
  564538 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,15n,87p,773b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Informe.pdf (5 pages, 583954 bytes).
+Output written on "Whats is Docker.pdf" (6 pages, 586770 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
