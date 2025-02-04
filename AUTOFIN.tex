@@ -1,0 +1,124 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,activeacute]{babel}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue
+}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{framed}
+\usepackage{tcolorbox}
+\usepackage{draftwatermark} % Paquete para la marca de agua
+
+% Configuración de la marca de agua
+\SetWatermarkText{AUTOFIN} % Texto de la marca de agua
+\SetWatermarkScale{3} % Tamaño de la marca de agua
+\SetWatermarkColor[gray]{0.9} % Color y transparencia de la marca de agua
+
+% Configuración de márgenes
+\geometry{left=2cm, right=2cm, top=2.5cm, bottom=2.5cm}
+
+% Configuración del encabezado y pie de página
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\includegraphics[width=2.5cm]{logo2.jpeg}}
+\fancyhead[C]{\textbf{\sffamily AUTOFIN con AI WOLF}}
+\fancyfoot[C]{\thepage}
+
+% Colores personalizados
+\definecolor{primary}{RGB}{34, 85, 136}
+\definecolor{secondary}{RGB}{0, 128, 128}
+\definecolor{questionbg}{RGB}{240, 240, 240}
+
+\begin{document}
+
+% Título principal
+\begin{center}
+    \vspace*{7cm}
+    \includegraphics[width=8cm]{iawolf.png}
+\end{center}
+
+
+\begin{center}
+    \vspace{5cm}
+    \textcolor{secondary}{\textbf{Santiago de Chile}}\\
+    \textit{Martes, 4 de enero de 2025}
+    \vspace{1cm}
+\end{center}
+
+
+\newpage
+
+% Índice
+\tableofcontents
+\newpage
+
+% Resumen Ejecutivo
+\section{Qué es DENO?}
+
+\noindent
+DENO busca abordar algunas de las limitaciones y desafios encontrados en Node.js. En la seguridad, existen diferencias claves, como por ejemplo
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|l|l|l|}
+        \hline
+        \textbf{Característica} & \textbf{Deno} & \textbf{Node.js} \\
+        \hline
+        \textbf{Soporte TypeScript} & Soporte nativo sin configuración adicional. & Requiere compilación previa (usando \texttt{ts-node} o \texttt{babel}). \\
+        \hline
+        \textbf{Seguridad} & Sandbox seguro, necesita permisos explícitos. & Acceso total al sistema sin restricciones. \\
+        \hline
+        \textbf{Manejo de Módulos} & No usa \texttt{package.json} ni \texttt{node\_modules}. & Usa NPM y \texttt{node\_modules}. \\
+        \hline
+        \textbf{Compatibilidad con NPM} & Soporte parcial desde Deno 2.0. & Compatible con NPM desde el inicio. \\
+        \hline
+        \textbf{APIs Web Estándar} & Usa APIs nativas como \texttt{fetch}, \texttt{WebSocket}. & APIs propias como \texttt{http}, \texttt{fs}. \\
+        \hline
+        \textbf{Multihilo (Workers)} & Usa Web Workers nativos. & Implementa Threads con \texttt{worker\_threads}. \\
+        \hline
+        \textbf{Gestión de Dependencias} & Descarga módulos y los almacena en caché globalmente. & Usa \texttt{package.json} y \texttt{node\_modules}. \\
+        \hline
+        \textbf{Ejecutable único} & Permite compilar en un solo ejecutable. & No tiene una herramienta similar. \\
+        \hline
+        \textbf{Instalación de Scripts} & Se pueden instalar con \texttt{deno install}. & Requiere configuración de \texttt{package.json}. \\
+        \hline
+        \textbf{Gestión de Archivos} & Acceso restringido por defecto. & Acceso sin restricciones. \\
+        \hline
+    \end{tabular}
+    \caption{Comparación entre Deno y Node.js}
+\end{table}
+
+\noindent
+Además de ello, DENO cuenta con un sistema de permisos que permite controlar el acceso a recursos del sistema, como el sistema de archivos, la red, el entorno, etc, a diferencia de node.js que permite acceso total a los recursos del sistema. Eso quiere decir que DENO es más seguro que Node.js.
+
+\section{Descripción General}
+
+\noindent
+Deno tiene como objetivo ser un entorno de scripting seguro y productivo para el programador moderno. De manera similar a Node.js, Deno enfatiza la arquitectura basada en eventos , proporcionando un conjunto de utilidades de E/S centrales sin bloqueo , junto con sus versiones de bloqueo. Deno podría usarse para crear servidores web , realizar cálculos científicos, etc. Deno es un software de código abierto bajo la licencia MIT .
+
+\newpage
+
+\section{Instalación de DENO}
+
+Para instalar DENO, se debe ejecutar el siguiente comando en la terminal:
+
+\begin{center}
+    \begin{tcolorbox}[colback=questionbg]
+        \texttt{curl -fsSL https://deno.land/x/install/install.sh | sh}
+    \end{tcolorbox}  
+\end{center}
+
+Una vez instalado, se puede verificar la versión de DENO con el siguiente comando:
+
+\end{document}
